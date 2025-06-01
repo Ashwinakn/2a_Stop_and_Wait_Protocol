@@ -1,5 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
 **Name:** Ashwina K N
+
 **Register Number:** 212223230025
 ## AIM 
 To write a python program to perform stop and wait protocol
